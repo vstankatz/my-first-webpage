@@ -1,0 +1,11 @@
+Body {
+ background-image: url("img/code.jpg");
+background-blend-mode: lighten;
+}
+
+background-image {
+  opacity: 0.2;
+}
+img/code.jpg {
+  opacity: 0.2;
+}
